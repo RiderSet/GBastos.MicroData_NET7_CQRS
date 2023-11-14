@@ -1,8 +1,4 @@
-﻿using System;
-using System.Linq;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using GBastos.MicroData.Domain.Core.Events;
+﻿using GBastos.MicroData.Domain.Core.Events;
 using GBastos.MicroData.Infra.Data.Context;
 using Microsoft.EntityFrameworkCore;
 

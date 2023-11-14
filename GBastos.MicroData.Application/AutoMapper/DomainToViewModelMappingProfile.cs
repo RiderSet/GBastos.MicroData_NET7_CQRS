@@ -8,7 +8,8 @@ namespace GBastos.MicroData.Application.AutoMapper
     {
         public DomainToViewModelMappingProfile()
         {
-            CreateMap<Item, CustomerViewModel>();
+            CreateMap<Item, ItemViewModel>();
+            CreateMap<Pedido, PedidoViewModel>();
         }
     }
 }

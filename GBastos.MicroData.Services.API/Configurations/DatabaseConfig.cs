@@ -1,8 +1,5 @@
-﻿using System;
-using GBastos.MicroData.Infra.Data.Context;
+﻿using GBastos.MicroData.Infra.Data.Context;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
 
 namespace GBastos.MicroData.Services.Api.Configurations
 {
@@ -13,10 +10,10 @@ namespace GBastos.MicroData.Services.Api.Configurations
             if (services == null) throw new ArgumentNullException(nameof(services));
 
             services.AddDbContext<CTX>(options =>
-                options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+                options.UseSqlServer(configuration.GetConnectionString("Conn")));
 
             services.AddDbContext<EventStoreSqlContext>(options =>
-                options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+                options.UseSqlServer(configuration.GetConnectionString("Conn")));
         }
     }
 }

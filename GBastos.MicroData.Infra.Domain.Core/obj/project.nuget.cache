@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UNc1wAbInVW6HUu2mu707BNhO3Wct9zQ0EvoR50c6hVQrrjRdlxaaYBNAJFq1J9ouRpWbU8J1rVH85bnUki/+w==",
+  "dgSpecHash": "KqCD1+G4xdDDdiglTi3bOcdX8QOswiqJRP5PeEWlnGor2qKeBOc5qsOCBUAFcSxpIhkskxNmTX0XngA27XGRWw==",
   "success": true,
-  "projectFilePath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj",
+  "projectFilePath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\glbst\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\glbst\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

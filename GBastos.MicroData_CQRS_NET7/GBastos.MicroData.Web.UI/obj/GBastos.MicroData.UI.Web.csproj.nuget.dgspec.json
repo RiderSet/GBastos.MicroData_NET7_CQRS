@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj": {}
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj": {}
   },
   "projects": {
-    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj": {
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj",
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj",
         "projectName": "GBastos.MicroData.Application",
-        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj",
         "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
-        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\obj\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,11 +33,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj"
               },
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj": {
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj",
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj",
         "projectName": "GBastos.MicroData.Infra.CrossCutting.Identity",
-        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj",
         "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
-        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\obj\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -110,8 +110,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj"
               }
             }
           }
@@ -161,14 +161,14 @@
         }
       }
     },
-    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj": {
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj",
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj",
         "projectName": "GBastos.MicroData.Infra.CrossCutting.IoC",
-        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj",
         "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
-        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.IoC\\obj\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -190,17 +190,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj"
               },
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj"
               },
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj"
               },
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj"
               }
             }
           }
@@ -234,14 +234,14 @@
         }
       }
     },
-    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj": {
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj",
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj",
         "projectName": "GBastos.MicroData.Infra.CrossCutting.Bus",
-        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj",
         "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
-        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting\\obj\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -263,8 +263,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj"
               }
             }
           }
@@ -304,14 +304,14 @@
         }
       }
     },
-    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj": {
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj",
         "projectName": "GBastos.MicroData.Infra.Data",
-        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
-        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\obj\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -333,11 +333,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj"
               },
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj"
               }
             }
           }
@@ -389,14 +389,14 @@
         }
       }
     },
-    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj": {
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj",
         "projectName": "GBastos.MicroData.Domain.Core",
-        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
-        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\obj\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -455,14 +455,14 @@
         }
       }
     },
-    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj",
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj",
         "projectName": "GBastos.MicroData.Domain",
-        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj",
         "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
-        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\obj\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -484,11 +484,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj"
               },
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj"
               }
             }
           }
@@ -540,14 +540,14 @@
         }
       }
     },
-    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj": {
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj",
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj",
         "projectName": "GBastos.MicroData.UI.Web",
-        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj",
         "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
-        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\obj\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -569,14 +569,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj"
               },
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj"
               },
-              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj": {
-                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj"
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj"
               }
             }
           }

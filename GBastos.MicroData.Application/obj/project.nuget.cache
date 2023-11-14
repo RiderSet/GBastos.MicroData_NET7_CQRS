@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tgj9vQ6vRyZRdIPKO7rndgL3s6EV976+ZKRZPYGuUB1+T2AgQZ2oaUtQmHrcUK5LOWG7EU9StfM2IoTRnCyCMg==",
+  "dgSpecHash": "rmXI0zWGbFJbmmPMya35t6QF7a11q3vk9EIGr/jrWxLZj7QI9ZmTCb0hj8TVT5nYtiN7BT5zc0jNB8S/orLNuw==",
   "success": true,
-  "projectFilePath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj",
+  "projectFilePath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\glbst\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\glbst\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

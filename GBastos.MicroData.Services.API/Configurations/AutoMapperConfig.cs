@@ -1,6 +1,4 @@
-﻿using System;
-using GBastos.MicroData.Application.AutoMapper;
-using Microsoft.Extensions.DependencyInjection;
+﻿using GBastos.MicroData.Application.AutoMapper;
 
 namespace GBastos.MicroData.Services.API.Configurations
 {

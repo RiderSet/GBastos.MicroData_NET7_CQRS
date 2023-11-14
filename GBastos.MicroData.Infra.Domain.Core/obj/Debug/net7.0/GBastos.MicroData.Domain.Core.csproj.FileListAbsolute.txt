@@ -10,3 +10,15 @@ C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Doma
 C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain.Core\obj\Debug\net7.0\refint\GBastos.MicroData.Domain.Core.dll
 C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain.Core\obj\Debug\net7.0\GBastos.MicroData.Domain.Core.pdb
 C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain.Core\obj\Debug\net7.0\ref\GBastos.MicroData.Domain.Core.dll
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData_NET7_CQRS\GBastos.MicroData.Infra.Domain.Core\bin\Debug\net7.0\GBastos.MicroData.Domain.Core.deps.json
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData_NET7_CQRS\GBastos.MicroData.Infra.Domain.Core\bin\Debug\net7.0\GBastos.MicroData.Domain.Core.dll
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData_NET7_CQRS\GBastos.MicroData.Infra.Domain.Core\bin\Debug\net7.0\GBastos.MicroData.Domain.Core.pdb
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData_NET7_CQRS\GBastos.MicroData.Infra.Domain.Core\obj\Debug\net7.0\GBastos.MicroData.Domain.Core.csproj.AssemblyReference.cache
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData_NET7_CQRS\GBastos.MicroData.Infra.Domain.Core\obj\Debug\net7.0\GBastos.MicroData.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData_NET7_CQRS\GBastos.MicroData.Infra.Domain.Core\obj\Debug\net7.0\GBastos.MicroData.Domain.Core.AssemblyInfoInputs.cache
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData_NET7_CQRS\GBastos.MicroData.Infra.Domain.Core\obj\Debug\net7.0\GBastos.MicroData.Domain.Core.AssemblyInfo.cs
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData_NET7_CQRS\GBastos.MicroData.Infra.Domain.Core\obj\Debug\net7.0\GBastos.MicroData.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData_NET7_CQRS\GBastos.MicroData.Infra.Domain.Core\obj\Debug\net7.0\GBastos.MicroData.Domain.Core.dll
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData_NET7_CQRS\GBastos.MicroData.Infra.Domain.Core\obj\Debug\net7.0\refint\GBastos.MicroData.Domain.Core.dll
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData_NET7_CQRS\GBastos.MicroData.Infra.Domain.Core\obj\Debug\net7.0\GBastos.MicroData.Domain.Core.pdb
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData_NET7_CQRS\GBastos.MicroData.Infra.Domain.Core\obj\Debug\net7.0\ref\GBastos.MicroData.Domain.Core.dll

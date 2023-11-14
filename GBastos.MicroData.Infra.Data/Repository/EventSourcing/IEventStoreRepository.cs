@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using GBastos.MicroData.Domain.Core.Events;
+﻿using GBastos.MicroData.Domain.Core.Events;
 
 namespace GBastos.MicroData.Infra.Data.Repository.EventSourcing
 {

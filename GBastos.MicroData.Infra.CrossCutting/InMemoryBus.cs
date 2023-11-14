@@ -1,6 +1,5 @@
-﻿using System.Threading.Tasks;
+﻿using FluentValidation.Results;
 using GBastos.MicroData.Domain.Core.Events;
-using FluentValidation.Results;
 using MediatR;
 using NetDevPack.Mediator;
 using NetDevPack.Messaging;

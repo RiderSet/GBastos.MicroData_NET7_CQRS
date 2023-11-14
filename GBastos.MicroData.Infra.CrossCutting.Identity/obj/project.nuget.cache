@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "90+5Zk64h/lceAe67bKi3uH0drpFs3iVrrms7RTa+mNA6Ed0ML1+EX1JMy4r96L6KxO23wCwt9ZAv4gPy9fFzQ==",
+  "dgSpecHash": "h5G8/Er11r+wbnKIXcIhvDcQeo41Iejhf9HmTKn/25tjmg0ksJcQEVNYUVnZHUHbtLrvs3/R/C5HrE/dNQUBUw==",
   "success": true,
-  "projectFilePath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj",
+  "projectFilePath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\glbst\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\glbst\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

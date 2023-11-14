@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bk9OGGoLWog8KwvHh67OdL68kcEMjLCLo+GT7dJ7wctAUZZB6X/mnHJl3mV1qmi7LGOdl9MKwh+4omdKtOj+LQ==",
+  "dgSpecHash": "oJEb6ByWECdFuYSTjeuQ3XSSP1bif2NGFXnsLMpnRUIZwgcL77FmSVVqvzKMy7YsDJMPrcZ/mqPKTzznboCVpw==",
   "success": true,
-  "projectFilePath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Services.API\\GBastos.MicroData.Services.API.csproj",
+  "projectFilePath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Services.API\\GBastos.MicroData.Services.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\glbst\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\glbst\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z5un8423STaSHhp0xzSRFzNDHUEcZPRM5Sl0PSEEx1JYuNNiMTJXftGKNICb8s44Co2l1zPNFID8xUQQR3g8iQ==",
+  "dgSpecHash": "/Xh8qQs3d02/eBSqmKq569Jj4+1sWbVJmcORlGmqYxeFifxuiy10oQwC9uJYcBfcK04N7AnnawamgVSWjJl8GA==",
   "success": true,
-  "projectFilePath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj",
+  "projectFilePath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\glbst\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\glbst\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

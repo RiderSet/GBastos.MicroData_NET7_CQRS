@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C8lQIXQT/bv/E8kVWdJLeRnFsGyqkiwjNl6VjUCCTWGz0bQ1nz+/UPCT7cfZCrJsnrvj2tifaKNPgr7kuM1ghQ==",
+  "dgSpecHash": "bZiNL/fi3eIi/UBnstOx4HK8un93hcdqNqYvOhfo4vsKHYcbp7UAr/qcSePSUVBgUwzEXDj/omtNkefgB8/wOg==",
   "success": true,
-  "projectFilePath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj",
+  "projectFilePath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_NET7_CQRS\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\glbst\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\glbst\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

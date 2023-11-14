@@ -18,8 +18,8 @@ namespace GBastos.MicroData.Services.API.Configurations
                     Version = "v1",
                     Title = "Equinox Project",
                     Description = "Equinox API Swagger surface",
-                    Contact = new OpenApiContact { Name = "Eduardo Pires", Email = "contato@eduardopires.net.br", Url = new Uri("http://www.eduardopires.net.br") },
-                    License = new OpenApiLicense { Name = "MIT", Url = new Uri("https://github.com/EduardoPires/EquinoxProject/blob/master/LICENSE") }
+                    Contact = new OpenApiContact { Name = "Gil Bastos", Email = "glbsts@outlook.com", Url = new Uri("https://github.com/RiderSet/GBastos.MicroData_NET7_CQRS") },
+                    License = new OpenApiLicense { Name = "GIL", Url = new Uri("https://github.com/RiderSet/GBastos.MicroData_NET7_CQRS") }
                 });
 
                 s.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
