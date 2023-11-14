@@ -1,0 +1,100 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{DE15DCE4-E3B3-4C81-B3F0-F6E06601A065}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Services", "2 - Services", "{57BCB8E5-93C3-4C3D-848C-60D434531EE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Application", "3 - Application", "{372B9734-01A7-418E-8A34-CB2DE802960A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Domain", "4 - Domain", "{7D7058A2-EFFE-427E-BA65-5CEB78DC1431}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Infra", "5 - Infra", "{8D8ED330-C745-4F56-868D-E85D29D7C155}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.1 - Data", "5.1 - Data", "{EA7A74D7-FCA3-4E73-B2CA-59758C8CAD94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2 - CrossCutting", "5.2 - CrossCutting", "{B6DF07DE-4BA3-4EF0-882C-1C437AB0ED7A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GBastos.MicroData.Infra.Data", "..\GBastos.MicroData.Infra.Data\GBastos.MicroData.Infra.Data.csproj", "{AA5E7F16-A2D4-4D75-B4EA-2D797BDC3E11}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GBastos.MicroData.Infra.CrossCutting.Bus", "..\GBastos.MicroData.Infra.CrossCutting\GBastos.MicroData.Infra.CrossCutting.Bus.csproj", "{9E5E5DF0-65A7-4D32-92AC-A64CEF536D32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GBastos.MicroData.Infra.CrossCutting.Identity", "..\GBastos.MicroData.Infra.CrossCutting.Identity\GBastos.MicroData.Infra.CrossCutting.Identity.csproj", "{F58E15E4-E1DB-4F64-AD6D-D536397504CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GBastos.MicroData.Infra.CrossCutting.IoC", "..\GBastos.MicroData.Infra.CrossCutting.IoC\GBastos.MicroData.Infra.CrossCutting.IoC.csproj", "{892DF9D3-FA8E-4195-95B8-7EA8216619E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GBastos.MicroData.Domain", "..\GBastos.MicroData.Infra.Domain\GBastos.MicroData.Domain.csproj", "{27CB2C7D-66B5-458D-9020-2BBFF72C2678}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GBastos.MicroData.Domain.Core", "..\GBastos.MicroData.Infra.Domain.Core\GBastos.MicroData.Domain.Core.csproj", "{F7157F07-A55E-4409-A69C-7BD1F580D195}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GBastos.MicroData.Application", "..\GBastos.MicroData.Application\GBastos.MicroData.Application.csproj", "{DB7A9436-EEB9-4AB9-B79C-0D9FDCD0848B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GBastos.MicroData.Services.API", "..\GBastos.MicroData.Services.API\GBastos.MicroData.Services.API.csproj", "{E582A42E-2F53-45CC-897D-3D822E7CEFC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBastos.MicroData.UI.Web", "GBastos.MicroData.Web.UI\GBastos.MicroData.UI.Web.csproj", "{5B6F7119-BC11-4B77-A3B1-7CCEFE196672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA5E7F16-A2D4-4D75-B4EA-2D797BDC3E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5E7F16-A2D4-4D75-B4EA-2D797BDC3E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5E7F16-A2D4-4D75-B4EA-2D797BDC3E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5E7F16-A2D4-4D75-B4EA-2D797BDC3E11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E5E5DF0-65A7-4D32-92AC-A64CEF536D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5E5DF0-65A7-4D32-92AC-A64CEF536D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5E5DF0-65A7-4D32-92AC-A64CEF536D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5E5DF0-65A7-4D32-92AC-A64CEF536D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58E15E4-E1DB-4F64-AD6D-D536397504CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58E15E4-E1DB-4F64-AD6D-D536397504CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58E15E4-E1DB-4F64-AD6D-D536397504CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58E15E4-E1DB-4F64-AD6D-D536397504CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892DF9D3-FA8E-4195-95B8-7EA8216619E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892DF9D3-FA8E-4195-95B8-7EA8216619E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892DF9D3-FA8E-4195-95B8-7EA8216619E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892DF9D3-FA8E-4195-95B8-7EA8216619E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CB2C7D-66B5-458D-9020-2BBFF72C2678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CB2C7D-66B5-458D-9020-2BBFF72C2678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CB2C7D-66B5-458D-9020-2BBFF72C2678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CB2C7D-66B5-458D-9020-2BBFF72C2678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7157F07-A55E-4409-A69C-7BD1F580D195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7157F07-A55E-4409-A69C-7BD1F580D195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7157F07-A55E-4409-A69C-7BD1F580D195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7157F07-A55E-4409-A69C-7BD1F580D195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB7A9436-EEB9-4AB9-B79C-0D9FDCD0848B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB7A9436-EEB9-4AB9-B79C-0D9FDCD0848B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB7A9436-EEB9-4AB9-B79C-0D9FDCD0848B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB7A9436-EEB9-4AB9-B79C-0D9FDCD0848B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E582A42E-2F53-45CC-897D-3D822E7CEFC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E582A42E-2F53-45CC-897D-3D822E7CEFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E582A42E-2F53-45CC-897D-3D822E7CEFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E582A42E-2F53-45CC-897D-3D822E7CEFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6F7119-BC11-4B77-A3B1-7CCEFE196672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6F7119-BC11-4B77-A3B1-7CCEFE196672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6F7119-BC11-4B77-A3B1-7CCEFE196672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6F7119-BC11-4B77-A3B1-7CCEFE196672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EA7A74D7-FCA3-4E73-B2CA-59758C8CAD94} = {8D8ED330-C745-4F56-868D-E85D29D7C155}
+		{B6DF07DE-4BA3-4EF0-882C-1C437AB0ED7A} = {8D8ED330-C745-4F56-868D-E85D29D7C155}
+		{AA5E7F16-A2D4-4D75-B4EA-2D797BDC3E11} = {EA7A74D7-FCA3-4E73-B2CA-59758C8CAD94}
+		{9E5E5DF0-65A7-4D32-92AC-A64CEF536D32} = {B6DF07DE-4BA3-4EF0-882C-1C437AB0ED7A}
+		{F58E15E4-E1DB-4F64-AD6D-D536397504CD} = {B6DF07DE-4BA3-4EF0-882C-1C437AB0ED7A}
+		{892DF9D3-FA8E-4195-95B8-7EA8216619E4} = {B6DF07DE-4BA3-4EF0-882C-1C437AB0ED7A}
+		{27CB2C7D-66B5-458D-9020-2BBFF72C2678} = {7D7058A2-EFFE-427E-BA65-5CEB78DC1431}
+		{F7157F07-A55E-4409-A69C-7BD1F580D195} = {7D7058A2-EFFE-427E-BA65-5CEB78DC1431}
+		{DB7A9436-EEB9-4AB9-B79C-0D9FDCD0848B} = {372B9734-01A7-418E-8A34-CB2DE802960A}
+		{E582A42E-2F53-45CC-897D-3D822E7CEFC9} = {57BCB8E5-93C3-4C3D-848C-60D434531EE2}
+		{5B6F7119-BC11-4B77-A3B1-7CCEFE196672} = {DE15DCE4-E3B3-4C81-B3F0-F6E06601A065}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC151F5-31FF-4F11-92F5-EADF3FEF880C}
+	EndGlobalSection
+EndGlobal

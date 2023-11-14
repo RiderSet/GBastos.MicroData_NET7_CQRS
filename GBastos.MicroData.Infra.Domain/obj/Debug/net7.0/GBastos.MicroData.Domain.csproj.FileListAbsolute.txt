@@ -1,0 +1,17 @@
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\bin\Debug\net7.0\GBastos.MicroData.Domain.deps.json
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\bin\Debug\net7.0\GBastos.MicroData.Domain.dll
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\bin\Debug\net7.0\GBastos.MicroData.Domain.pdb
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\bin\Debug\net7.0\GBastos.MicroData.Domain.Core.dll
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\bin\Debug\net7.0\GBastos.MicroData.Infra.CrossCutting.Bus.dll
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\bin\Debug\net7.0\GBastos.MicroData.Infra.CrossCutting.Bus.pdb
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\bin\Debug\net7.0\GBastos.MicroData.Domain.Core.pdb
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\obj\Debug\net7.0\GBastos.MicroData.Domain.csproj.AssemblyReference.cache
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\obj\Debug\net7.0\GBastos.MicroData.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\obj\Debug\net7.0\GBastos.MicroData.Domain.AssemblyInfoInputs.cache
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\obj\Debug\net7.0\GBastos.MicroData.Domain.AssemblyInfo.cs
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\obj\Debug\net7.0\GBastos.MicroData.Domain.csproj.CoreCompileInputs.cache
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\obj\Debug\net7.0\GBastos.MicroData.Domain.csproj.CopyComplete
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\obj\Debug\net7.0\GBastos.MicroData.Domain.dll
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\obj\Debug\net7.0\refint\GBastos.MicroData.Domain.dll
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\obj\Debug\net7.0\GBastos.MicroData.Domain.pdb
+C:\Geral\GBastos Systems\Clientes\MicroData_Systems\GBastos.MicroData.Infra.Domain\obj\Debug\net7.0\ref\GBastos.MicroData.Domain.dll

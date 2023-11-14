@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GBastos.MicroData.UI.Web.props" />
+</Project>

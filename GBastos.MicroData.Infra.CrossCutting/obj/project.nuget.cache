@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7GabkPaKxBNPw+wjGGX5H43uq6/gKDWD6Y6wlOzCM7hSEz3BgMmhMO6rLmSycONpQDQwTw/DjkB2d7DQfcQ8mg==",
+  "success": true,
+  "projectFilePath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glbst\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\glbst\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\glbst\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\glbst\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\glbst\\.nuget\\packages\\netdevpack\\6.1.0\\netdevpack.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

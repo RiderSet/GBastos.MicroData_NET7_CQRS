@@ -1,0 +1,669 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj",
+        "projectName": "GBastos.MicroData.Application",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj",
+        "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\glbst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj"
+              },
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj",
+        "projectName": "GBastos.MicroData.Infra.CrossCutting.Identity",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj",
+        "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\glbst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "NetDevPack.Identity": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj",
+        "projectName": "GBastos.MicroData.Infra.CrossCutting.IoC",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\glbst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj"
+              },
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj"
+              },
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj"
+              },
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj",
+        "projectName": "GBastos.MicroData.Infra.CrossCutting.Bus",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj",
+        "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\glbst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj",
+        "projectName": "GBastos.MicroData.Infra.Data",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\GBastos.MicroData.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\glbst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj"
+              },
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "NetDevPack.Identity": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj",
+        "projectName": "GBastos.MicroData.Domain.Core",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\glbst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "NetDevPack": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj",
+        "projectName": "GBastos.MicroData.Domain",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\GBastos.MicroData.Domain.csproj",
+        "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\glbst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting\\GBastos.MicroData.Infra.CrossCutting.Bus.csproj"
+              },
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.Domain.Core\\GBastos.MicroData.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "System.ComponentModel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Security.Claims": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj",
+        "projectName": "GBastos.MicroData.UI.Web",
+        "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\GBastos.MicroData.UI.Web.csproj",
+        "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
+        "outputPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData_CQRS_NET7\\GBastos.MicroData.Web.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\glbst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Application\\GBastos.MicroData.Application.csproj"
+              },
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.Identity\\GBastos.MicroData.Infra.CrossCutting.Identity.csproj"
+              },
+              "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\Geral\\GBastos Systems\\Clientes\\MicroData_Systems\\GBastos.MicroData.Infra.CrossCutting.IoC\\GBastos.MicroData.Infra.CrossCutting.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjectionFixed": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

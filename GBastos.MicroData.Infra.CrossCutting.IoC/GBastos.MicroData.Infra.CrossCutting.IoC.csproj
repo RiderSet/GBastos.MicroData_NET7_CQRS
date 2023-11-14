@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GBastos.MicroData.Application\GBastos.MicroData.Application.csproj" />
+    <ProjectReference Include="..\GBastos.MicroData.Infra.CrossCutting.Identity\GBastos.MicroData.Infra.CrossCutting.Identity.csproj" />
+    <ProjectReference Include="..\GBastos.MicroData.Infra.Data\GBastos.MicroData.Infra.Data.csproj" />
+    <ProjectReference Include="..\GBastos.MicroData.Infra.Domain\GBastos.MicroData.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
