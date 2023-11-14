@@ -1,8 +1,7 @@
-﻿using System;
+﻿using GBastos.MicroData.Infra.Data.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using GBastos.MicroData.Infra.Data.Context;
 
 namespace GBastos.MicroData.Infra.Data.Migrations
 {

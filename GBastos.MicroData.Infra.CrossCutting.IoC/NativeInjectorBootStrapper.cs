@@ -1,18 +1,17 @@
-﻿using GBastos.MicroData.Application.Interfaces;
+﻿using FluentValidation.Results;
+using GBastos.MicroData.Application.Interfaces;
 using GBastos.MicroData.Application.Services;
 using GBastos.MicroData.Domain.Core.Events;
+using GBastos.MicroData.Domain.Events.Item;
 using GBastos.MicroData.Domain.Interfaces;
 using GBastos.MicroData.Infra.CrossCutting.Bus;
 using GBastos.MicroData.Infra.Data.Context;
 using GBastos.MicroData.Infra.Data.EventSourcing;
 using GBastos.MicroData.Infra.Data.Repository;
 using GBastos.MicroData.Infra.Data.Repository.EventSourcing;
-using FluentValidation.Results;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using NetDevPack.Mediator;
-using GBastos.MicroData.Domain.Commands.Item;
-using GBastos.MicroData.Domain.Events.Item;
 
 namespace GBastos.MicroData.Infra.CrossCutting.IoC
 {

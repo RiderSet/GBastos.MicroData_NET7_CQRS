@@ -1,4 +1,4 @@
-﻿using GBastos.MicroData.Domain.Commands.Pedido;
+﻿using GBastos.MicroData.Domain.Commands.PedidoCommands;
 
 namespace GBastos.MicroData.Domain.Commands.Validations.Pedido
 {

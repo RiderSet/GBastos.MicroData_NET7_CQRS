@@ -1,4 +1,4 @@
-﻿using GBastos.MicroData.Domain.Commands.Item;
+﻿using GBastos.MicroData.Domain.Commands.ItemCommands;
 
 namespace GBastos.MicroData.Domain.Commands.Validations.Item
 {

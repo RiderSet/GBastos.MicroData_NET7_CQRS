@@ -1,6 +1,5 @@
 ﻿using FluentValidation.Results;
 using GBastos.MicroData.Domain.Models;
-using GBastos.MicroData.Infra.Data.Mappings;
 using Microsoft.EntityFrameworkCore;
 using NetDevPack.Data;
 using NetDevPack.Domain;
